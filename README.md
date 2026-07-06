@@ -16,7 +16,7 @@
 
 <section class="section">
     <h2>A propos de moi</h2>
-     <p>Salut je suis étudiant au Cnam de Paris en DSP DevOps et je souhaite devenir un ingenieur DevOps </p>
+     <p>Salut je suis étudiant au Cnam de Paris en DEUST ISIO (en BAC +2) et je souhaite devenir un ingenieur DevOps/Cloud </p>
      <p></p>
 </section>
 

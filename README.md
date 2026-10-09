@@ -25,7 +25,6 @@
     <ul class="skills-list">
         <li>HTML/CSS(Boostrap)</li>
         <li>Server</li>
-        <li></li>
         <li>Openssh</li>
         <li>Docker</li>
         <li>JavaScript</li>

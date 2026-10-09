@@ -24,10 +24,13 @@
     <h2>Compétences Techniques</h2>
     <ul class="skills-list">
         <li>HTML/CSS(Boostrap)</li>
-        <li>Server DNS</li>
+        <li>Server</li>
+        <li></li>
         <li>Openssh</li>
         <li>Docker</li>
         <li>JavaScript</li>
+        <li>JAVA</li>
+        <li>typescript</li>
         <li>Python automatisation</li>
         <li>SQL</li>
         <li>Linux</li>
